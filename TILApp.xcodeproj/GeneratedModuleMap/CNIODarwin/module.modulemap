@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/vadim/Downloads/Server_Side_Swift_with_Vapor_v1/10-sibling-relationships/final/TILApp/.build/checkouts/swift-nio.git--4507345535273073954/Sources/CNIODarwin/include"
+    export *
+}
